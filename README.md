@@ -2,7 +2,7 @@
   <a href="https://github.com/iDerekLi/juejin-helper" target="_blank">
     <img src="./resources/logo.svg" alt="稀土掘金" width="260" />
   </a>
-</section>
+</section> 
 
 <h1 align="center">JuejinHelper-稀土掘金助手</h1>
 
